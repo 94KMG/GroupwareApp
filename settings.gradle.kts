@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GroupwareApp"
+rootProject.name = "TextEditing"
 include(":app")
  

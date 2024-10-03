@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.groupwareapp"
+    namespace = "com.example.textEditing"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.groupwareapp"
+        applicationId = "com.example.textEditing"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
