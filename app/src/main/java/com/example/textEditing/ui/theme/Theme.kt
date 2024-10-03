@@ -1,4 +1,4 @@
-package com.example.groupwareapp.ui.theme
+package com.example.textEditing.ui.theme
 
 import android.app.Activity
 import android.os.Build
